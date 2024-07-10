@@ -42,7 +42,7 @@ webhooks:
       type: github
       metadata:
         discussion:
-          repository: VauntDev/example
+          repository: nkkko/daytona
           title: Vaunt Achievements
       events:
         - event:
