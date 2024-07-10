@@ -270,5 +270,5 @@ For more information on how to use and develop Daytona, talk to us on
 [Slack](https://go.daytona.io/slack).
 
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{YOUR_GITHUB_USERNAME}}/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/nkkko/achievements?format=svg&limit=3" width="350" />
 </p>
